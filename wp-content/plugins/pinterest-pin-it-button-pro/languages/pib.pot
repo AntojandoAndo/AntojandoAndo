@@ -1,0 +1,1322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pin It Button Pro\n"
+"POT-Creation-Date: 2014-10-26 10:58-0700\n"
+"PO-Revision-Date: 2014-10-26 10:58-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: pinterest-pin-it-button-pro\n"
+
+#: pinterest-pin-it-button-pro/class-pinterest-pin-it-button-pro.php:329
+msgid "Pinterest \"Pin It\" Button Pro"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/class-pinterest-pin-it-button-pro.php:340
+msgid " Settings"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/class-pinterest-pin-it-button-pro.php:341
+msgid "Pin It Button Pro"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/class-pinterest-pin-it-button-pro.php:350
+#: pinterest-pin-it-button-pro/class-pinterest-pin-it-button-pro.php:351
+#: pinterest-pin-it-button-pro/class-pinterest-pin-it-button.php:318
+#: pinterest-pin-it-button-pro/class-pinterest-pin-it-button.php:328
+#: pinterest-pin-it-button-pro/class-pinterest-pin-it-button.php:329
+#: pinterest-pin-it-button-pro/class-pinterest-pin-it-button.php:434
+msgid "Settings"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/class-pinterest-pin-it-button-pro.php:360
+#: pinterest-pin-it-button-pro/class-pinterest-pin-it-button.php:338
+msgid " Help"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/class-pinterest-pin-it-button-pro.php:361
+#: pinterest-pin-it-button-pro/class-pinterest-pin-it-button.php:339
+msgid "Help"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/class-pinterest-pin-it-button-pro.php:564
+msgid ""
+"Pinterest Pin It Button LITE is still active. Please deactivate it to avoid "
+"possible complications."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/class-pinterest-pin-it-button.php:143
+msgid " requires WordPress version <strong>"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/class-pinterest-pin-it-button.php:257
+msgid "Pinterest \"Pin It\" Button Lite"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/class-pinterest-pin-it-button.php:319
+msgid "Pin It Button"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/class-pinterest-pin-it-button.php:441
+msgid "Purchase Pro"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/admin-notices-pro.php:30
+msgid "Image Hover settings updated. "
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/admin-notices-pro.php:34
+msgid "Below Image settings updated. "
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/admin-notices-pro.php:38
+msgid "Share Bar settings updated. "
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/admin-notices-pro.php:42
+msgid "Support settings updated."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/admin-notices.php:30
+msgid "General settings updated. "
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/admin-notices.php:34
+msgid "Post Visibility settings updated. "
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/admin-notices.php:38
+msgid "Styles settings updated. "
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/admin-notices.php:42
+msgid "Advanced settings updated. "
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/misc-functions.php:77
+msgid "No items."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:30
+msgid "Use Featured Image"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:31
+msgid ""
+"Default to featured image when button type is <strong>\"Image is pre-selected"
+"\"</strong>"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:33
+msgid "Check this to default to your WooCommerce product featured image."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:38
+msgid "Custom Page-Level Button"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:39
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:225
+msgid ""
+"Use a custom \"Pin It\" button instead of an official button from Pinterest. "
+"Select below."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:55
+msgid "Custom Button Width"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:56
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:64
+msgid "px"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:63
+msgid "Custom Button Height"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:75
+msgid "Custom Post Types"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:82
+msgid "WooCommerce Products"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:83
+msgid ""
+"Tip: On the General tab, if you're using the button type <strong>\"Image is "
+"pre-selected\"</strong>, "
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:84
+msgid ""
+"make sure <strong>\"Use Featured Image\"</strong> is also checked to force "
+"pinning of your product featured images."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:94
+msgid "Enable Image Hover Button"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:95
+msgid ""
+"Show a custom \"Pin It\" button when hovering over images (select below)"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:111
+msgid "Hover Button Placement"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:112
+msgid ""
+"Select what corner of each image you'd like the hover button to appear in."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:115
+msgid "Top Left"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:116
+msgid "Top Right"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:117
+msgid "Bottom Left"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:118
+msgid "Bottom Right"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:123
+msgid "Hover Button Width"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:131
+msgid "Hover Button Height"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:139
+msgid "Minimum Image Width to Hover On"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:140
+msgid ""
+"The minimum width an image needs to be to show a \"Pin It\" button on hover "
+"(default: 200px)."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:147
+msgid "Minimum Image Height to Hover On"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:148
+msgid ""
+"The minimum height an image needs to be to show a \"Pin It\" button on hover "
+"(default: 200px)."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:163
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:281
+msgid "CSS Classes to Ignore"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:164
+msgid ""
+"Prevent the hover button on these CSS classes. Separate classes with commas "
+"and no spaces (i.e. \"class1,class2,class3\"). Can also be used on container "
+"elements. The built-in CSS class pib-nohover already prevents hovering."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:171
+msgid "Always Show Hover Button"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:172
+msgid ""
+"Always show a custom \"Pin It\" button on images, even when not hovering "
+"over them"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:177
+msgid "Enable Image Protection"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:178
+msgid ""
+"Use <strong>old</strong> hover button option that prevents viewers from "
+"right-clicking to save images."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:187
+msgid "Enable Button Below Images"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:188
+msgid "Show a \"Pin It\" button below each image"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:193
+#: pinterest-pin-it-button-pro/includes/register-settings.php:56
+msgid "Button Size"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:197
+#: pinterest-pin-it-button-pro/includes/register-settings.php:60
+#: pinterest-pin-it-button-pro/includes/widgets.php:185
+msgid "Small"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:198
+#: pinterest-pin-it-button-pro/includes/register-settings.php:61
+#: pinterest-pin-it-button-pro/includes/widgets.php:186
+msgid "Large"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:203
+#: pinterest-pin-it-button-pro/includes/register-settings.php:66
+msgid "Button Shape"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:207
+#: pinterest-pin-it-button-pro/includes/register-settings.php:70
+#: pinterest-pin-it-button-pro/includes/widgets.php:193
+msgid "Rectangular"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:208
+#: pinterest-pin-it-button-pro/includes/register-settings.php:71
+#: pinterest-pin-it-button-pro/includes/widgets.php:194
+msgid "Circular"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:213
+#: pinterest-pin-it-button-pro/includes/register-settings.php:76
+msgid "Button Color"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:214
+#: pinterest-pin-it-button-pro/includes/register-settings.php:77
+msgid "Color ignored if button shape is <strong>Circular</strong>."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:217
+#: pinterest-pin-it-button-pro/includes/register-settings.php:80
+#: pinterest-pin-it-button-pro/includes/widgets.php:201
+msgid "Gray"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:218
+#: pinterest-pin-it-button-pro/includes/register-settings.php:81
+#: pinterest-pin-it-button-pro/includes/widgets.php:202
+msgid "Red"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:219
+#: pinterest-pin-it-button-pro/includes/register-settings.php:82
+#: pinterest-pin-it-button-pro/includes/widgets.php:203
+msgid "White"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:224
+msgid "Custom Button Below Images"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:241
+msgid "Below Image Button Width"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:249
+msgid "Below Image Button Height"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:257
+msgid "Minimum Image Width to Show Button On"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:258
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:266
+msgid ""
+"The minimum height an image needs to be to show a \"Pin It\" button below "
+"(default: 200px)."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:265
+msgid "Minimum Image Height to Show Button On"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:282
+msgid ""
+"Prevent the button from showing under images with these CSS classes. "
+"Separate classes with commas and no spaces (i.e. \"class1,class2,class3\"). "
+"Can also be used on container elements."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:293
+msgid "Use Social Share Bar"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:294
+msgid ""
+"Enable other social sharing buttons in addition to the \"Pin It\" button"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:299
+msgid "Share Bar Button Selection"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:300
+msgid "Drag and drop to rearrange button order"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:314
+msgid "Share Bar Button Width"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:315
+msgid "(default: 105px)"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:322
+msgid "Share Bar Alignment"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:326
+msgid "Not Set (default)"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:327
+#: pinterest-pin-it-button-pro/includes/widgets.php:245
+msgid "Left"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:328
+#: pinterest-pin-it-button-pro/includes/widgets.php:246
+msgid "Right"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:329
+#: pinterest-pin-it-button-pro/includes/widgets.php:247
+msgid "Center"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:334
+msgid "Hide Count Bubbles"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:335
+msgid "Hide count bubbles for non-Pinterest buttons"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:336
+msgid ""
+"Facebook Like does not currently support hiding the count bubble. This "
+"method of cutting off the right edge may not work for non-English sites."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:341
+msgid "Facebook App ID"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:342
+msgid "Improve your posts shared on Facebook by adding a unique App ID."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:343
+msgid "Create App ID."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:344
+msgid "View Instructions."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:350
+msgid "Tweet \"via\" Username"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:351
+msgid "Prepended with \"@\". Ignored if left blank."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:357
+msgid "Tweet Hashtag (#)"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:358
+msgid "Prepended with \"#\". Ignored if left blank."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:364
+msgid "Remove \"Tweet\" Text"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:365
+msgid "Remove the default \"Tweet\" text for Twitter buttons"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:366
+msgid ""
+"If you are seeing the unwanted \"Tweet\" text in post excerpts or other "
+"places try enabling this."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:375
+msgid "Disable Image <code>data-pin</code> Attributes"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:376
+msgid ""
+"Prevent Pinterest-specific data attributes from being added to image tags."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:377
+msgid ""
+"Currently data-pin-media and data-pin-url attributes are added in server-"
+"side PHP."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:382
+#: pinterest-pin-it-button-pro/views/post-meta-display-pro.php:32
+msgid "UTM Variables"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:383
+msgid ""
+"UTM tracking querystring to add to the end of your pin URLs. Include "
+"everything after the \"?\"."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:384
+msgid ""
+"This feature currently only works for \"Image pre-selected\" ( General "
+"&rarr; Button Type )"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:385
+msgid "Example: utm_source=pinterest&utm_medium=pin&utm_campaign=special-deal"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:395
+msgid "License Key"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:396
+msgid "Enter your license key here to receive automatic updates and support."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:402
+msgid "Looking for a Widget?"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:403
+#: pinterest-pin-it-button-pro/includes/register-settings.php:112
+#, php-format
+msgid ""
+"Go to Appearance &rarr; <a href=\"%s\">Widgets</a> to add a \"Pin It\" "
+"button to your sidebar or other widget area."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:404
+#: pinterest-pin-it-button-pro/views/admin-help.php:211
+#, php-format
+msgid ""
+"Need more widgets? Check out our free <a href=\"%s\">Pinterest Widgets</a> "
+"plugin."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:415
+msgid "Need to use Shortcodes?"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:416
+#, php-format
+msgid ""
+"Visit the <a href=\"%s\">Help Section</a> for shortcode attributes and "
+"examples."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:422
+#: pinterest-pin-it-button-pro/views/admin-sidebar-pro.php:29
+msgid "Knowledgebase & Support"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:423
+#, php-format
+msgid ""
+"Visit our <a target=\"_blank\" href=\"%s\">Knowledgebase</a> where you can "
+"also submit a support request."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:485
+msgid "Image Hover Settings"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:504
+msgid "Below Image Button Settings"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:523
+msgid "Share Bar Settings"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:543
+msgid "Fix NextGen Thumbnail Pins"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:544
+msgid ""
+"Enable to force pins of NextGen thumbnails to use their linked full-size "
+"images. However, this disables the below image \"Pin It\" button option."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:545
+msgid "Sorry, but we could not yet get both to work for NextGen users."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:566
+#: pinterest-pin-it-button-pro/views/admin-pro.php:61
+msgid "Support"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:688
+msgid "Available Buttons"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:689
+msgid ""
+"Drag and drop the buttons you'd like to enable on your site into the box "
+"below."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:709
+msgid "Enabled Buttons"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:710
+msgid ""
+"Buttons dragged here will be enabled on your site. Drag back above to "
+"disable."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:753
+msgid "Select new page-level button"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:755
+msgid "Upload custom button image or use media library"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:831
+msgid "Above WooCommerce Product Short Description"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:832
+msgid "Below WooCommerce Product Short Description"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:833
+msgid "Above WooCommerce Add to Cart Button"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings-pro.php:834
+msgid "Below WooCommerce Add to Cart Button"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:28
+msgid "Button Type"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:33
+#: pinterest-pin-it-button-pro/includes/widgets.php:212
+msgid "User selects image from popup (any image)"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:34
+#: pinterest-pin-it-button-pro/includes/widgets.php:216
+msgid "Image is pre-selected (one image -- defaults to first image in post)"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:39
+msgid "Pin Count"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:43
+#: pinterest-pin-it-button-pro/includes/widgets.php:176
+msgid "Not Shown"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:44
+#: pinterest-pin-it-button-pro/includes/widgets.php:177
+msgid "Beside the Button"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:45
+#: pinterest-pin-it-button-pro/includes/widgets.php:178
+msgid "Above the Button"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:51
+msgid "Show count bubble when there are zero pins."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:87
+msgid "Save Settings"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:88
+msgid ""
+"Save your settings when uninstalling this plugin. Useful when upgrading or "
+"re-installing."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:97
+msgid "Post/Page Types"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:98
+msgid ""
+"You may individually hide the \"Pin It\" button per post/page. This field is "
+"located towards the bottom of the post/page edit screen."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:101
+msgid "Home Page (or latest posts page)"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:102
+msgid "Front Page (different from Home Page only if set in Settings > Reading)"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:103
+msgid "Individual Posts"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:104
+msgid "Individual Pages (WordPress static pages)"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:105
+msgid "Archive Pages (includes Category, Tag, Author, and date-based pages)"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:110
+msgid "Post/Page Placement"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:111
+msgid ""
+"Only the button style <strong>\"Image is pre-selected\"</strong> will use "
+"the individual post URL when a visitor pins from a post excerpt."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:115
+msgid "Above Content"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:116
+msgid "Below Content"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:117
+msgid "Include in Post Excerpts"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:126
+msgid "Custom CSS"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:127
+msgid "Custom CSS can be used to override other CSS style rules."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:128
+#, php-format
+msgid "Visit the <a href=\"%s\">Help Section</a> for CSS override examples."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:133
+msgid "Remove DIV Container"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:134
+msgid "Remove DIV tag surrounding regular button"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:139
+msgid "Disable CSS File Reference"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:140
+msgid ""
+"Advanced. Will prevent the plugin's CSS file from being referenced. Custom "
+"CSS above will still be included."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:149
+msgid "Disable <code>pinit.js</code>"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:150
+msgid ""
+"Disable output of <code>pinit.js</code>, the JavaScript file for all widgets "
+"from Pinterest."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:151
+msgid ""
+"Check this option if you have <code>pinit.js</code> referenced in another "
+"plugin, widget or your theme. Ouputting <code>pinit.js</code> more than once "
+"on a page can cause conflicts."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:178
+msgid "General Settings"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:197
+msgid "Post Visibility Settings"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:216
+msgid "Style Settings"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:235
+msgid "Advanced Settings"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/register-settings.php:499
+#, php-format
+msgid ""
+"The callback function used for the <strong>%s</strong> setting is missing."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/shortcodes-pro.php:32
+msgid "Pinit button is disabled for this post."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/widgets.php:31
+msgid "Pinterest \"Pin It\" Button"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/widgets.php:34
+msgid "Add a Pinterest \"Pin It\" button to any widget area."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/widgets.php:170
+msgid "Title (optional)"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/widgets.php:174
+msgid "Pin Count:"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/widgets.php:183
+msgid "Size:"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/widgets.php:191
+msgid "Shape:"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/widgets.php:199
+msgid "Color:"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/widgets.php:220
+msgid ""
+"These 3 text fields will be used only if the button type is \"image pre-"
+"selected\"."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/widgets.php:225
+#: pinterest-pin-it-button-pro/views/post-meta-display.php:39
+msgid "URL of the web page to be pinned"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/widgets.php:230
+#: pinterest-pin-it-button-pro/views/admin-help.php:71
+#: pinterest-pin-it-button-pro/views/post-meta-display.php:44
+msgid "URL of the image to be pinned"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/widgets.php:235
+msgid "Description of the pin (optional)"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/widgets.php:242
+msgid "Alignment"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/widgets.php:244
+msgid "None"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/includes/widgets.php:255
+msgid ""
+"Remove div tag surrounding this widget button. Also removes alignment "
+"setting."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:26
+msgid "Plugin version"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:29
+msgid "Shortcode Options"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:32
+msgid "Use the shortcode"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:32
+msgid "to display the button within your content."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:35
+msgid "Use the function"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:36
+msgid "to display within template or theme files."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:39
+msgid "Available Attributes (Lite & Pro)"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:44
+#: pinterest-pin-it-button-pro/views/admin-help.php:125
+msgid "Attribute"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:45
+#: pinterest-pin-it-button-pro/views/admin-help.php:126
+msgid "Description"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:46
+#: pinterest-pin-it-button-pro/views/admin-help.php:127
+msgid "Choices"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:47
+#: pinterest-pin-it-button-pro/views/admin-help.php:128
+msgid "Default"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:53
+msgid "\"Pin It\" button behavior type"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:59
+msgid "Where to show the pin count bubble"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:65
+msgid ""
+"URL of the web page to be pinned. Must be specified if used on home or index "
+"page."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:66
+msgid "Any valid web page URL"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:67
+msgid "Current post/page URL"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:72
+msgid "Any valid image URL"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:73
+msgid "First image in post/page"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:77
+msgid "Description of the pin. Ignored if button_type=\"any\""
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:78
+msgid "Any string of text"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:83
+msgid "\"Pin It\" button size"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:89
+msgid "\"Pin It\" button shape"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:95
+msgid "\"Pin It\" button color"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:101
+msgid "Adds CSS to align button"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:107
+msgid "If true removes surrounding div tag"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:113
+msgid "Will always show the count bubble, even for pages with zero pins"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:120
+msgid "Available Attributes (Pro Only)"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:134
+msgid ""
+"If true will show other social sharing buttons (the share bar). Must be "
+"enabled in main settings. Inherits alignment and other styles from main "
+"settings."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:140
+msgid ""
+"If true and \"image is pre-selected\" is enabled, will default to post's "
+"featured image."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:147
+msgid "Shortcode Examples"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:152
+msgid "Pro only"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:155
+msgid "CSS Style Overrides"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:158
+msgid ""
+"This plugin outputs a CSS file in an attempt to keep basic \"Pin It\" button "
+"styling intact."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:159
+msgid ""
+"To override the CSS styles you may add your own CSS to the plugin's \"Custom "
+"CSS\" box or in your theme files."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:160
+msgid ""
+"No !important tags are used in this plugin's CSS, but note that the embed "
+"code from Pinterest also renders some CSS (which may include !important "
+"tags)."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:163
+msgid "Available CSS classes (Lite & Pro)"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:166
+msgid "Regular button container"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:167
+msgid "Regular button link tag"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:168
+msgid "Shortcode button container"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:169
+msgid "Shortcode button link tag"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:170
+msgid "Widget button container"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:171
+msgid "Widget button link tag"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:175
+msgid ""
+"There is also a <code>span</code> element nested inside the \"Pin It\" "
+"button <code>a</code> tag which contains the count bubble."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:178
+msgid "Available CSS classes (Pro Only)"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:181
+msgid "Hover button link tag"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:182
+msgid "Below image button container"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:183
+msgid "Below image button link tag"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:185
+msgid "Share bar container"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:186
+msgid "Share bar: Pin It button container"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:187
+msgid "Share bar: Facebook Share button container"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:188
+msgid "Share bar: Facebook Like button container"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:189
+msgid "Share bar: Tweet button container"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:190
+msgid "Share bar: Google+ Share button container"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:191
+msgid "Share bar: Google +1 button container"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:192
+msgid "Share bar: LinkedIn Share button container"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:195
+msgid "CSS Style Override Examples"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:198
+msgid "Increase space under button"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:199
+msgid "Add red border around button"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:200
+msgid "Add red border around widget button"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:203
+msgid "Individual Post/Page Overrides"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:206
+msgid ""
+"You may individually override what website address (URL), image and "
+"description will be pinned for each post or page."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:207
+msgid ""
+"These fields are located towards the bottom of the post/page edit screen."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-help.php:220
+#, php-format
+msgid ""
+"Visit the <a href=\"%s\" target=\"_blank\">Knowledgebase</a> for additional "
+"help."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-install-notice.php:27
+msgid " is now installed."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-install-notice.php:28
+msgid "Setup your Pin It button now"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-install-notice.php:29
+#: pinterest-pin-it-button-pro/views/deactivate-lite-notice.php:28
+msgid "Hide this"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-license-notice.php:37
+msgid ""
+"Notice: You must enter your \"Pin It\" Button Pro license key to receive "
+"automatic updates and support."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-license-notice.php:43
+msgid "Go to the Support tab to enter your license key"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-license-notice.php:49
+msgid "If you would like to purchase a license "
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-license-notice.php:51
+msgid "please visit our store"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-pro.php:40
+msgid "General"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-pro.php:43
+msgid "Post Visibility"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-pro.php:46
+msgid "Image Hover"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-pro.php:49
+msgid "Below Image"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-pro.php:52
+msgid "Share Bar"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-pro.php:55
+msgid "Styles"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-pro.php:58
+msgid "Advanced"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-sidebar-pro.php:24
+msgid "Shortcode & CSS Help"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-sidebar-pro.php:34
+msgid "Request & Vote on New Features"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-sidebar-pro.php:47
+msgid "WooCommerce Rich Pins"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-sidebar-pro.php:51
+msgid ""
+"Running a WooCommerce store and want to give your product pins a boost? "
+"There's a plugin for that."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-sidebar-pro.php:56
+msgid "Check out Rich Pins for WooCommerce"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-sidebar-pro.php:72
+msgid "Article Rich Pins"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-sidebar-pro.php:76
+msgid ""
+"Want give your pins a boost with <strong>Article Rich Pins</strong>? There's "
+"a plugin for that."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-sidebar-pro.php:81
+msgid "Check out Article Rich Pins"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/admin-sidebar-pro.php:95
+msgid "Recent News from pinplugins.com"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/deactivate-lite-notice.php:27
+msgid ""
+"Pinterest \"Pin It\" Button Lite has been deactivated to avoid conflicts "
+"with the Pro Version. It is strongly recommended you delete the \"Pin It\" "
+"Button Lite plugin."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/post-meta-display-pro.php:25
+msgid "Override default description for all hover buttons on this post"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/post-meta-display-pro.php:29
+msgid "Override default description for all below image buttons on this post"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/post-meta-display-pro.php:34
+msgid ""
+"UTM tracking querystring to add to the end of your pin URLs. Include "
+"everything after the \"?\". This will override the main UTM Variables "
+"settings."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/post-meta-display.php:18
+msgid "User selects image"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/post-meta-display.php:18
+msgid "Image pre-selected"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/post-meta-display.php:27
+msgid ""
+"Individual post or page-level button settings will only take affect if the "
+"\"Pin It\" button type set in the main settings is <strong>\"image pre-"
+"selected\"</strong>."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/post-meta-display.php:30
+msgid "Current button type:"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/post-meta-display.php:34
+msgid ""
+"The below settings will not take affects unless the button type is changed. "
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/post-meta-display.php:35
+msgid "Go to \"Pin It\" Button Settings"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/post-meta-display.php:41
+msgid "Defaults to current post/page URL if left blank."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/post-meta-display.php:46
+msgid "Defaults to first image in post if left blank."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/post-meta-display.php:49
+msgid "Description of the pin"
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/post-meta-display.php:51
+msgid "Defaults to post title if left blank."
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/post-meta-display.php:55
+msgid "Show \"Pin It\" button "
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/post-meta-display.php:58
+msgid "If checked displays the button "
+msgstr ""
+
+#: pinterest-pin-it-button-pro/views/post-meta-display.php:61
+msgid "If unchecked the button "
+msgstr ""

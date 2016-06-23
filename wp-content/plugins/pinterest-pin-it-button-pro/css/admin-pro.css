@@ -1,0 +1,100 @@
+/* Pinterest "Pin It" Button Admin CSS */
+
+/* Settings page tweaks */
+.form-table td p.pib-no-input-description {
+	margin-top: 0; /* override margin-top: 4px */
+}
+
+/* Some pages may not want to include the sidebar. */
+#pib-settings.pib-no-sidebar {
+	margin-right: auto;
+}
+
+/* Share Bar buttons */
+.pib-admin-share-item {
+	background-position: 4px 50%;
+	background-repeat: no-repeat;
+	background-color: #fff;
+	border: 1px solid #dedede;
+	border-radius: 4px;
+	padding: 2px 7px 2px 24px;
+	float: left;
+	margin: 5px;
+	font-size: 12px;
+	cursor: move;
+}
+
+/* Background URL icons for share bar buttons. */
+.pib-admin-share-item.Facebook  { background-image: url('../assets/admin/facebook.png'); }
+.pib-admin-share-item.Google    { background-image: url('../assets/admin/gplus.png'); }
+.pib-admin-share-item.Pinterest { background-image: url('../assets/admin/pinterest.png'); }
+.pib-admin-share-item.Linked    { background-image: url('../assets/admin/linkedin.png'); }
+.pib-admin-share-item.Twitter   { background-image: url('../assets/admin/twitter.png'); }
+
+#pib-share-available h3 {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#pib-share-enabled h3 {
+	margin-top: 10px;
+	margin-bottom: 0;
+}
+
+#pib-share-available h3 small,
+#pib-share-enabled h3 small {
+	font-weight: normal;
+}
+
+#pib-share-available ul,
+#pib-share-enabled ul {
+	background-color: whitesmoke;
+	border: 2px dashed #ccc;
+	float: left;
+	min-height: 70px;
+	margin: 0;
+	width: 100%;
+}
+
+/* Custom image button selector table inside thickbox popup. */
+.pib-cb-admin-popup {
+    text-align: center;
+}
+
+.pib-cb-admin-popup {
+    margin: 20px auto 0 auto;
+}
+
+.pib-cb-admin-popup td {
+    cursor: pointer;
+    width: 75px;
+    text-align: center;
+    height: 50px;
+}
+
+.pib-cb-admin-popup td:hover {
+    background-color: #ececec;
+}
+
+/* License Stuff */
+.pib-license-message { 
+	display: inline-block; 
+}
+
+.pib-valid { 
+	color: #529943;
+}
+
+.pib-invalid { 
+	color: #f00; 
+}
+
+.pib-inactive { 
+	color: #aaa6a9; 
+}
+
+.pib-spinner {
+	float: none;
+	margin-top: 4px;
+	vertical-align: top;
+}

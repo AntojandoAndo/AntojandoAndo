@@ -1,0 +1,186 @@
+/* Pinterest "Pin It" Button Pro Public CSS */
+
+/* This padding needs to be removed from the sharebar button so that the buttons adapt responsively smoothly */
+.pib-sharebar-pinterest .pin-it-btn-wrapper {
+	padding-bottom: 0;
+}
+
+.pib-sharebar {
+	padding: 10px 0 5px;
+	margin: 0;
+	width: auto;
+    clear: both;
+	/* text-align set in settings */
+}
+
+.pib-sharebar img,
+.entry-content .pib-sharebar img {
+	border-radius: 0;
+	box-shadow: none;
+	border: none;
+	padding: 0;
+	margin: 0;
+	background: none;
+}
+
+.pib-sharebar ul,
+.entry-content .pib-sharebar ul,
+.pib-sharebar li,
+.entry-content .pib-sharebar li {
+    margin: 0;
+    padding: 0;
+	list-style: none;
+	line-height: 1rem;
+	border: none;
+	background: none;
+    text-indent: 0;
+}
+
+.pib-sharebar li,
+.entry-content .pib-sharebar li {
+	text-align: left;
+	display: inline-block;
+
+	/* Set top alignment here even though other places we use baseline. */
+	vertical-align: top;
+
+    /* width set in settings */
+}
+
+.pib-sharebar li:before,
+.entry-content .pib-sharebar li:before {
+    content: none;
+}
+
+/* Override Facebook & Twitter iframe margin-bottom in 2015 and other stock themes. */
+.pib-sharebar .pib-sharebar-facebook .fb_iframe_widget,
+.pib-sharebar .pib-sharebar-facebook-share .fb_iframe_widget,
+.pib-sharebar .pib-sharebar-twitter iframe {
+	margin-bottom: 0;
+}
+
+/* Override Google iframe vertical-align in 2015 and other stock themes. */
+.pib-sharebar .pib-sharebar-gplus iframe,
+.pib-sharebar .pib-sharebar-gplus-share iframe {
+	vertical-align: baseline;
+}
+
+/* Custom code for not showing count bubble for facebook like button. */
+.pib-facebook-like-no-count {
+	width: 50px;
+	overflow: hidden;
+}
+
+/* Image hover button */
+a.pib-hover-btn-link {
+	/* Background image and dimensions should be overwritten, but leave in the default just in case. */
+	background: url("//assets.pinterest.com/images/pidgets/pin_it_button.png") 0 0 no-repeat;
+	width: 58px;
+	height: 27px;
+	position: absolute;
+	text-decoration: none;
+	border: none;
+}
+
+/*** Button Overlay on Hover Image (old hover button option) ***/
+.pib-hover-container {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.pib-hover-mask {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+    display: none;
+    text-align: left;
+}
+
+.pib-hover-mask .pib-hover-btn-link {
+	/* Default position is top-left corner. */
+	top: 0;
+	left: 0;
+
+	/* Margin setting from any corner. */
+	margin: 10px;
+	vertical-align: baseline;
+	text-decoration: none;
+}
+
+/* Specific positions for hover button link */
+.pib-hover-mask .pib-hover-top-left {
+    top: 0;
+    bottom: auto;
+    left: 0;
+    right: auto;
+}
+
+.pib-hover-mask .pib-hover-top-right {
+    top: 0;
+    bottom: auto;
+    left: auto;
+    right: 0;
+}
+
+.pib-hover-mask .pib-hover-bottom-left {
+    top: auto;
+    bottom: 0;
+    left: 0;
+    right: auto;
+}
+
+.pib-hover-mask .pib-hover-bottom-right {
+    top: auto;
+    bottom: 0;
+    left: auto;
+    right: 0;
+}
+
+/* Same as original WP alignleft, alignright, aligncenter to fix ProPhoto/CSS overwrite issue */
+.pib-hover-container-alignleft,
+.pib-hover-mask-alignleft {
+    float: left;
+}
+
+.pib-hover-container-alignright,
+.pib-hover-mask-alignright {
+    float: right;
+}
+
+.pib-hover-container-aligncenter,
+.pib-hover-mask-aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Pin it button below image defaults (background image, width & height should always be overwritten). */
+.pib-img-under {
+	background: url("//assets.pinterest.com/images/pidgets/pin_it_button.png") 0 0 no-repeat;
+	display: block;
+	width: 40px;
+	height: 20px;
+	clear: both;
+}
+
+/* Pin it button below image wrapper */
+.pib-img-under-wrapper {
+	margin-bottom: 10px;
+}
+
+/* WooCommerce-specific styles */
+
+/* Add padding above Pin It button if under Add to Cart button. */
+.product .summary .cart .pin-it-btn-wrapper {
+	padding-top: 15px;
+}
+
+/* But not if using the share bar. */
+.product .summary .cart .pib-sharebar .pin-it-btn-wrapper {
+	padding-top: 0;
+}

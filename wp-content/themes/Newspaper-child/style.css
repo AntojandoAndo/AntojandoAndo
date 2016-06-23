@@ -1,0 +1,38 @@
+/*
+Theme Name: 	Newspaper-child
+Description: 	Customization of Newspaper theme for AntojandoAndo.com
+Version: 		1.0.0
+Author: 		Guillermo Freire
+Author URI: 	https://uy.linkedin.com/in/gfreire
+Template:		Newspaper
+Tags:black, white, one-column, two-columns, fixed-layout
+*/
+
+.single .sub-menu{
+width:11em !important;
+}
+.td-main-content-wrap{
+  background: #fff !important;
+}
+
+.essb_links.essb_template_copy-retina li a
+{
+	font-size:12px;
+}
+
+@media (max-width: 767px){
+	.td-pb-row {
+		width: 100%;
+		margin-left: 0;
+		margin-right: 0;
+	}
+}
+
+.td-search-wrap-mob #td-header-search-mob {
+    color: #444;
+    background: white;
+}
+
+.td-search-wrap-mob .td-search-input {
+    padding: 0 5%;
+}
